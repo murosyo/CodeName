@@ -1,2 +1,2 @@
-# WordWolf
-ワードウルフをVueで実装してみる
+# CodeName
+コードネームをVueで実装してみる
